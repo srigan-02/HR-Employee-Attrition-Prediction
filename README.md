@@ -26,6 +26,7 @@ left	Attrition (0 = Stayed, 1 = Left)
 promotion_last_5years	Promoted in last 5 years (0 = No, 1 = Yes)
 Department	Employee’s department
 salary	Salary level (low, medium, high)
+
 ⚙️ Project Workflow
 1. Data Preparation & Cleaning
 
